@@ -3,7 +3,7 @@ import Avatar from "./components/Avatar.jsx";
 function App() {
   return (
     <div>
-      <Avatar name="Zah Micheal" size={50} />
+      <Avatar name="Zah Micheal" size={150} />
     </div>
   );
 }

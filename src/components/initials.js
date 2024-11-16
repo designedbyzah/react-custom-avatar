@@ -1,10 +1,10 @@
 function avatarInitials(name) {
-  const userName = name
+  const initials = name
     .split(" ")
     .map((item) => item[0])
     .join("")
     .toUpperCase();
-  return userName;
+  return initials;
 }
 
 export default avatarInitials;
