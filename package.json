@@ -14,7 +14,8 @@
 =======
   "version": "1.0.0",
   "description": "An avatar component that generates an avatar using initials, random colours, customized shapes and size",
-  "main": "index.js",
+ "main": "dist/index.html",
+  "files": ["dist"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
