@@ -1,5 +1,6 @@
 {
   "name": "react-custom-avatar",
+<<<<<<< HEAD
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -10,10 +11,39 @@
     "preview": "vite preview"
   },
   "dependencies": {
+=======
+  "version": "1.0.0",
+  "description": "An avatar component that generates an avatar using initials, random colours, customized shapes and size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EverPleroma/react-custom-avatar.git"
+  },
+  "keywords": [
+    "avatar"
+  ],
+  "author": "Pleroma",
+  "contributors": [
+    "Zah",
+    "Lisa Banahene",
+    "Michael Ikechukwu Mba",
+    "Aluko Damilare"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EverPleroma/react-custom-avatar/issues"
+  },
+  "homepage": "https://github.com/EverPleroma/react-custom-avatar#readme",
+  "peerDependencies": {
+>>>>>>> 519a31d (root)
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@eslint/js": "^9.13.0",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
@@ -24,5 +54,9 @@
     "eslint-plugin-react-refresh": "^0.4.14",
     "globals": "^15.11.0",
     "vite": "^5.4.10"
+=======
+    "eslint": "^9.15.0",
+    "vite": "^5.4.11"
+>>>>>>> 519a31d (root)
   }
 }
