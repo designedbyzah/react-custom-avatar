@@ -1,6 +1,7 @@
 {
   "name": "react-custom-avatar",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "A React component for generating unique, customizable avatars",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -17,10 +18,24 @@
     "component",
     "profile",
     "placeholder"
+=======
+  "description": "An avatar component that generates an avatar using initials, random colours, customized shapes and size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EverPleroma/react-custom-avatar.git"
+  },
+  "keywords": [
+    "avatar"
+>>>>>>> main
   ],
   "author": "Pleroma",
   "contributors": [
     "Zah",
+<<<<<<< HEAD
     "Michael Ikechukwu Mba",
     "Aluko Damilare",
     "Lisa Banahene "
@@ -29,6 +44,20 @@
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
+=======
+    "Lisa Banahene",
+    "Michael Ikechukwu Mba",
+    "Aluko Damilare"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EverPleroma/react-custom-avatar/issues"
+  },
+  "homepage": "https://github.com/EverPleroma/react-custom-avatar#readme",
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+>>>>>>> main
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.3",
