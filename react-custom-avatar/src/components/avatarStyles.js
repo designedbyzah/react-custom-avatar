@@ -1,9 +1,6 @@
 export function avatarStyles(size, bgcolor, fontColor, radius) {
   const avatarStyles = {
-<<<<<<< HEAD
-=======
     margin: "4rem auto",
->>>>>>> main
     width: `${size}px`,
     height: `${size}px`,
     backgroundColor: `${bgcolor}`,

@@ -1,24 +1,6 @@
 {
   "name": "react-custom-avatar",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "description": "A React component for generating unique, customizable avatars",
-  "main": "dist/index.js",
-  "module": "dist/index.es.js",
-  "files": [
-    "dist"
-  ],
-  "scripts": {
-    "build": "vite build",
-    "prepare": "npm run build"
-  },
-  "keywords": [
-    "react",
-    "avatar",
-    "component",
-    "profile",
-    "placeholder"
-=======
   "description": "An avatar component that generates an avatar using initials, random colours, customized shapes and size",
   "main": "index.js",
   "scripts": {
@@ -30,21 +12,10 @@
   },
   "keywords": [
     "avatar"
->>>>>>> main
   ],
   "author": "Pleroma",
   "contributors": [
     "Zah",
-<<<<<<< HEAD
-    "Michael Ikechukwu Mba",
-    "Aluko Damilare",
-    "Lisa Banahene "
-  ],
-  "license": "MIT",
-  "peerDependencies": {
-    "react": ">=16.8.0",
-    "react-dom": ">=16.8.0"
-=======
     "Lisa Banahene",
     "Michael Ikechukwu Mba",
     "Aluko Damilare"
@@ -57,7 +28,6 @@
   "peerDependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
->>>>>>> main
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.3",

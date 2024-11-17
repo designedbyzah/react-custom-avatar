@@ -1,11 +1,7 @@
 {
   "name": "react-custom-avatar",
   "private": true,
-<<<<<<< HEAD
-  "version": "0.0.0",
-=======
   "version": "1.0.0",
->>>>>>> main
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -27,11 +23,7 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.14",
     "globals": "^15.11.0",
-<<<<<<< HEAD
-    "vite": "^5.4.10"
-=======
     "vite": "^5.4.10",
     "vite-plugin-singlefile": "^2.0.3"
->>>>>>> main
   }
 }
