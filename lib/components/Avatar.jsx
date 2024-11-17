@@ -2,13 +2,7 @@ import PropType from "prop-types";
 import avatarInitials from "./initials.js";
 import { avatarStyles } from "./avatarStyles.js";
 
-function Avatar({
-  name,
-  size = 200,
-  bgcolor = "black",
-  fontColor = "white",
-  radius = 0,
-}) {
+function Avatar({ name, size = 200, bgcolor = "black", fontColor = "white", radius }) {
   const initials = avatarInitials(name);
   const avatarTheme = avatarStyles(size, bgcolor, fontColor, radius);
 
